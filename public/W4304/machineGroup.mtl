@@ -1,0 +1,258 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 21.05.2021 23:09:33
+
+newmtl Material__3304
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ../../../W4304/maps/cjtzjqst005.jpg
+	map_Kd ../../../W4304/maps/cjtzjqst005.jpg
+
+newmtl Material__161
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ../../../W4304/maps/KDHYGBSSJQST004.jpg
+	map_Kd ../../../W4304/maps/KDHYGBSSJQST004.jpg
+	map_bump -bm 0.3000 ../../../W4304/maps/Map__2649_Normal Bump.tga
+
+newmtl Material__76
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ../../../W4304/maps/KDHYGBSSJQST001.jpg
+	map_Kd ../../../W4304/maps/KDHYGBSSJQST001.jpg
+	map_bump -bm 0.3000 ../../../W4304/maps/Map__2645_Normal Bump.tga
+
+newmtl Material__16
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ../../../W4304/maps/KDHYGBSSJQST002.png
+	map_Kd ../../../W4304/maps/KDHYGBSSJQST002.png
+	map_d ../../../W4304/maps/KDHYGBSSJQST002.png
+
+newmtl Material__60056
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ../../../W4304/maps/KDHYGBSSJQST005.png
+	map_Kd ../../../W4304/maps/KDHYGBSSJQST005.png
+	map_d ../../../W4304/maps/KDHYGBSSJQST005.png
+
+newmtl Material__3249
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ../../../W4304/maps/cjtzjqst004.jpg
+	map_Kd ../../../W4304/maps/cjtzjqst004.jpg
+
+newmtl Material__3463
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ../../../W4304/maps/KDHYGBSSJQST003.jpg
+	map_Kd ../../../W4304/maps/KDHYGBSSJQST003.jpg
+
+newmtl Material__3451
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ../../../W4304/maps/cjtzjqst004.jpg
+	map_Kd ../../../W4304/maps/cjtzjqst004.jpg
+
+newmtl Material__3378
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ../../../W4304/maps/cjtzjqst006.jpg
+	map_Kd ../../../W4304/maps/cjtzjqst006.jpg
+
+newmtl Material__3439
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ../../../W4304/maps/cjtzjqst007.jpg
+	map_Kd ../../../W4304/maps/cjtzjqst007.jpg
+
+newmtl Material__3427
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ../../../W4304/maps/GHXMPSJT002.jpg
+	map_Kd ../../../W4304/maps/GHXMPSJT002.jpg
+
+newmtl wjtjt32
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ../../../W4304/maps/wjtjt32.jpg
+	map_Kd ../../../W4304/maps/wjtjt32.jpg
+
+newmtl KDHYGBSSJQST005
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ../../../W4304/maps/KDHYGBSSJQST005.jpg
+	map_Kd ../../../W4304/maps/KDHYGBSSJQST005.jpg
+
+newmtl Material__3414
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ../../../W4304/maps/HPHL001A006T005.jpg
+	map_Kd ../../../W4304/maps/HPHL001A006T005.jpg
+
+newmtl Material__3475
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ../../../W4304/maps/GHXMPSJT002.jpg
+	map_Kd ../../../W4304/maps/GHXMPSJT002.jpg
+
+newmtl zutaimxj01
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ../../../W4304/maps/zutaimxj01.jpg
+	map_Kd ../../../W4304/maps/zutaimxj01.jpg
+
+newmtl Material__70481
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ../../../W4304/maps/sqxgjt02.jpg
+	map_Kd ../../../W4304/maps/sqxgjt02.jpg
+
+newmtl Material__59351
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ../../../W4304/maps/YYJA001T118.jpg
+	map_Kd ../../../W4304/maps/YYJA001T118.jpg

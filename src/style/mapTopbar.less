@@ -1,0 +1,374 @@
+.mapTopbar {
+  display: flex;
+  background: rgba(0,0,0,0.6);
+  border-radius: 5px;
+  box-shadow: 4px 4px 10px #fff;
+  padding: .5rem;
+  .ant-dropdown-link {
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    margin: 0 4px;
+    :hover {
+      color: #0099ff;
+    }
+    .icon {
+      width: 20px;
+      height: 20px;
+      display: flex;
+      background: url('/img/icon.png') no-repeat;
+      cursor: pointer;
+      margin-right: 2px;
+    }
+    .vehicle {
+      background-position: 0.2px -94px;
+    }
+    .vehicle:hover {
+      background-position: 0.2px -113px;
+    }
+    .vehicle.active {
+      background-position: 0.2px -113px;
+    }
+    .staff {
+      background-position: -15.8px -94px;
+    }
+    .staff:hover {
+      background-position: -15.8px -113px;
+    }
+    .staff.active {
+      background-position: -15.8px -113px;
+    }
+    .visual {
+      background-position: -34.8px -94px;
+    }
+    .visual:hover {
+      background-position: -34.8px -113px;
+    }
+    .magnifier {
+      background-position: -52.8px -94px;
+    }
+    .magnifier:hover {
+      background-position: -52.8px -113px;
+    }
+    .measure {
+      background-position: -71.8px -94px;
+    }
+    .measure:hover {
+      background-position: -71.8px -113px;
+    }
+    .edit_map {
+      background-position: -91.8px -94px;
+    }
+    .edit_map:hover {
+      background-position: -91.8px -113px;
+    }
+    .edit_map.active {
+      background-position: -91.8px -113px;
+    }
+    .visualarea {
+      background-position: -52.8px -131px;
+    }
+    .visualarea:hover {
+      background-position: -52.8px -148px;
+    }
+    .switch_map {
+      background-position: -109.8px -94px;
+    }
+    .switch_map:hover {
+      background-position: -109.8px -113px;
+    }
+  }
+  .ant-dropdown-placement-bottomLeft {
+    .ant-dropdown-menu-item > a {
+      .icon {
+        width: 16px;
+        height: 16px;
+        display: inline-block;
+        background: url('/img/icon.png') no-repeat;
+      }
+      .reader {
+        width: 16px;
+        height: 16px;
+        display: block;
+        background-position: 0.2px -94px;
+      }
+      .reader:hover {
+        background-position: 0.2px -113px;
+      }
+    }
+  }
+  .hide {
+    display: none;
+  }
+}
+.ant-dropdown {
+  .ant-dropdown-menu-item-active{
+    background: rgba(255,255,255,0.1) !important;
+  }
+  ul {
+    background: rgba(0,0,0,0.7);
+  }
+  
+  a {
+    display: flex;
+    align-items: center;
+    color: #fff;
+    .icon {
+      width: 16px;
+      height: 16px;
+      display: inline-block;
+      background: url('/img/icon.png') no-repeat;
+    }
+    span {
+      margin-left: 8px;
+    }
+    /*
+     visual
+    */
+    .reader {
+      background-position: -3px -133px;
+    }
+    .light {
+      background-position: -20px -133px;
+    }
+    .fade_area {
+      background-position: -3px -166px;
+    }
+    .camera {
+      background-position: -37px -133px;
+    }
+    .landmark {
+      background-position: -74px -133px;
+    }
+    .reset {
+      background-position: -185px -133px;
+    }
+    .fault {
+      background-position: -93px -166px;
+    }
+    .underground {
+      background-position: -206px -205px;
+    }
+    .areaStaff {
+      background-position: -205px -133px;
+    }
+    .readerPath {
+      background-position: -113px -166px;
+    }
+    .antenna {
+      background-position: -225px -205px;
+    }
+    .hydraulicShow {
+      background-position: -113px -166px;
+    }
+    .fade_goaf {
+      background-position: -3px -166px;
+    }
+
+    /*
+      magnifier
+    */
+    .rect_query_vehicle {
+      background-position: -3px -166px;
+    }
+    .circle_query_vehicle {
+      background-position: -20px -166px;
+    }
+    .poly_query_vehicle {
+      background-position: -37px -166px;
+    }
+    .rect_query_staff {
+      background-position: -56px -166px;
+    }
+    .circle_query_staff {
+      background-position: -74px -166px;
+    }
+    .poly_query_staff {
+      background-position: -94px -166px;
+    }
+    /*
+      measure
+    */
+    .measure_length {
+      background-position: -3px -199px;
+    }
+    .measure_area {
+      background-position: -20px -199px;
+    }
+    .edit_area {
+      background-position: -37px -199px;
+    }
+    .edit_landmark {
+      background-position: -56px -199px;
+    }
+    .edit_forbid_area {
+      background-position: -3px -166px;
+    }
+    .edit_forbid_bstation{
+      background-position: -3px -133px;
+    }
+    .edit_route_plan{
+      background-position: -113px -166px;
+    }
+    .edit_goaf {
+      background-position: -131px -166px;
+    }
+    .edit_point {
+      background-position: -150px -166px;
+    }
+    .delete_point {
+      background-position: -169px -168px;
+    }
+
+    /*
+      visualarea
+    */
+    .area_1 {
+      background-position: -189px -167px;
+    }
+    .area_3 {
+      background-position: -208px -167px;
+    }
+    .area_5 {
+      background-position: -226px -167px;
+    }
+    .area_6 {
+      background-position: -245px -167px;
+    }
+    .area_1001 {
+      background-position: -263px -167px;
+    }
+    .area_2000 {
+      background-position: -189px -204px;
+    }
+    .area_3000 {
+      background-position: -189px -204px;
+    }
+  }
+  .menu-reader.active {
+    color: #0099ff;
+    .reader {
+      background-position: -3px -150px;
+    }
+  }
+  .menu-light.active {
+    color: #0099ff;
+    .light {
+      background-position: -20px -150px;
+    }
+  }
+  .menu-camera.active {
+    color: #0099ff;
+    .camera {
+      background-position: -37px -150px;
+    }
+  }
+  .menu-landmark.active {
+    color: #0099ff;
+    .landmark {
+      background-position: -74px -150px;
+    }
+  }
+  .menu-areaStaff.active {
+    color: #0099ff;
+    .areaStaff {
+      background-position: -206px -150px;
+    }
+  }
+  .menu-fault.active {
+    color: #0099ff;
+    .fault {
+      background-position: -37px -183px;
+    }
+  }
+  .menu-underground.active {
+    color: #0099ff;
+    .underground {
+      background-position: -206px -222px;
+    }
+  }
+  .menu-readerPath.active {
+    color: #0099ff;
+    .readerPath {
+      background-position: -113px -184px;
+    }
+  }
+  .menu-hydraulicShow.active {
+    color: #0099ff;
+    .hydraulicShow {
+      background-position: -113px -184px;
+    }
+  }
+  .menu-fade_goaf.active {
+    color: #0099ff;
+    .fade_goaf {
+      background-position: -3px -181px;
+    }
+  }
+  .menu-antenna.active {
+    color: #0099ff;
+    .antenna {
+      background-position: -225px -221px;
+    }
+  }
+  .menu-area_1.active {
+    color: #0099ff;
+    .area_1 {
+      background-position: -189px -184px;
+    }
+  }
+  .menu-area_3.active {
+    color: #0099ff;
+    .area_3 {
+      background-position: -208px -184px;
+    }
+  }
+  .menu-area_5.active {
+    color: #0099ff;
+    .area_5 {
+      background-position: -226px -184px;
+    }
+  }
+  .menu-area_6.active {
+    color: #0099ff;
+    .area_6 {
+      background-position: -245px -184px;
+    }
+  }
+  .menu-area_1001.active {
+    color: #0099ff;
+    .area_1001 {
+      background-position: -263px -184px;
+    }
+  }
+  .menu-area_2000.active {
+    color: #0099ff;
+    .area_2000 {
+      background-position: -189px -221px;
+    }
+  }
+  .menu-area_3000.active {
+    color: #0099ff;
+    .area_3000 {
+      background-position: -189px -221px;
+    }
+  }
+  .menu-edit_point.active {
+    color: #0099ff;
+    .edit_point {
+      background-position: -150px -181px;
+    }
+  }
+  .menu-delete_point.active {
+    color: #0099ff;
+    .delete_point {
+      background-position: -169px -183px;
+    }
+  }
+  .menu-map.active {
+    color: #0099ff;
+  }
+  .hide {
+    display: none!important;
+  }
+}
